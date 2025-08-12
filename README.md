@@ -1,33 +1,35 @@
-```lua
--- ~/.config/nvim/init.lua
--- senZenn :: Project Showcase
+# 🖥️ senZenn :: Project Showcase
 
-return {
-  -------------------------------------------------------------------
-  -- 󰀻  Environment
-  -------------------------------------------------------------------
-  { icon = "",  name = "IDE", desc = "Neovim (custom Lua config + lualine, telescope, treesitter)" },
-  { icon = "",  name = "Package Manager", desc = "Nix" },
-  { icon = "",  name = "OS", desc = "Arch Linux" },
-  { icon = "",  name = "Git", desc = "Git + GitHub" },
-  { icon = "",  name = "Terminal", desc = "Kitty / tmux" },
-  { icon = "",  name = "Langs", desc = "Rust, TypeScript, JavaScript" },
+---
 
-  -------------------------------------------------------------------
-  --   Webdev
-  -------------------------------------------------------------------
-  { icon = "󰠄", name = "Live24", desc = "Next.js Web3 Token Launchpad with AI", url = "https://live24.fun/" },
-  { icon = "󰠄", name = "Sol Spin", desc = "Static React Three Fiber + GSAP + Framer Motion website", url = "https://sol-spin.vercel.app/about" },
-  { icon = "󰠄", name = "SolAvatar", desc = "3D Avatar Creator with rigged body, lipsync, ElevenLabs voice, FFMPEG text-to-audio, and wallet integration", url = "https://solavatar.fun" },
-  { icon = "󰠄", name = "Artisan Shader", desc = "Shader generator site with custom config controls", url = "https://artisan-shader-nextjs.vercel.app" },
-  { icon = "󰠄", name = "Project Showcase", desc = "Frontend for showcasing projects", url = "https://project-showcase-amber.vercel.app" },
-  { icon = "󰠄", name = "Elite Fun", desc = "Next.js + GSAP cinematic landing page", url = "https://elite-fun-main.vercel.app/" },
+## 󰀻 Environment
+| Icon | Name             | Description |
+|------|------------------|-------------|
+|     | **IDE**          | Neovim (custom Lua config + lualine, telescope, treesitter) |
+|     | **Package Manager** | Nix |
+|     | **OS**           | Arch Linux |
+|     | **Git**          | Git + GitHub |
+|     | **Terminal**     | Kitty / tmux |
+|     | **Langs**        | Rust, TypeScript, JavaScript |
 
-  -------------------------------------------------------------------
-  --   Rust
-  -------------------------------------------------------------------
-  { icon = "", name = "Axum JWT Backend", desc = "Axum-based JWT auth API", url = "https://github.com/senzenn/Axum-simple-jwt-based-backend/tree/main/backend" },
-  { icon = "", name = "Rust Axum REST API", desc = "Simple REST API in Axum", url = "https://github.com/senzenn/rust-rest-api-axum" },
-  { icon = "", name = "Rust Dice Game", desc = "CLI dice game in Rust", url = "https://github.com/senzenn/rust-dice" },
-  { icon = "", name = "Axum Server & Client Testing", desc = "Testing setup with Axum, tmux, and HTTP clients", url = "https://github.com/senzenn/axum-server-client" },
-}
+---
+
+##  Webdev
+| Icon | Project | Description | Link |
+|------|---------|-------------|------|
+| 󰠄 | **Live24** | Next.js Web3 Token Launchpad with AI | [live24.fun](https://live24.fun/) |
+| 󰠄 | **Sol Spin** | Static React Three Fiber + GSAP + Framer Motion website | [sol-spin.vercel.app/about](https://sol-spin.vercel.app/about) |
+| 󰠄 | **SolAvatar** | 3D Avatar Creator with rigged body, lipsync, ElevenLabs voice, FFMPEG text-to-audio, and wallet integration | [solavatar.fun](https://solavatar.fun) |
+| 󰠄 | **Artisan Shader** | Shader generator site with custom config controls | [artisan-shader-nextjs.vercel.app](https://artisan-shader-nextjs.vercel.app) |
+| 󰠄 | **Project Showcase** | Frontend for showcasing projects | [project-showcase-amber.vercel.app](https://project-showcase-amber.vercel.app) |
+| 󰠄 | **Elite Fun** | Next.js + GSAP cinematic landing page | [elite-fun-main.vercel.app](https://elite-fun-main.vercel.app/) |
+
+---
+
+##  Rust
+| Icon | Project | Description | Link |
+|------|---------|-------------|------|
+|  | **Axum JWT Backend** | Axum-based JWT auth API | [GitHub](https://github.com/senzenn/Axum-simple-jwt-based-backend/tree/main/backend) |
+|  | **Rust Axum REST API** | Simple REST API in Axum | [GitHub](https://github.com/senzenn/rust-rest-api-axum) |
+|  | **Rust Dice Game** | CLI dice game in Rust | [GitHub](https://github.com/senzenn/rust-dice) |
+|  | **Axum Server & Client Testing** | Testing setup with Axum, tmux, and HTTP clients | [GitHub](https://github.com/senzenn/axum-server-client) |
