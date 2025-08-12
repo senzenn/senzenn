@@ -1,69 +1,49 @@
-## 🚀 Featured Projects
+#  Projects Showcase
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🎯 Cinematic Loader Page</h3>
-      <p align="center">
-        <a href="https://github.com/aditya/gsap-loader">
-          <img src="https://github.com/aditya/gsap-loader/raw/main/preview.gif" alt="Loader Preview" width="100%" />
-        </a>
-      </p>
-      <p align="center">
-        GSAP-powered loader with smooth scaling, masking, and cinematic timeline animations.
-      </p>
-      <p align="center">
-        <a href="https://github.com/aditya/gsap-loader"><img src="https://img.shields.io/badge/Code-000?style=flat&logo=github&logoColor=white"/></a>
-        <a href="https://aditya-loader-demo.vercel.app"><img src="https://img.shields.io/badge/Live Demo-0078D4?style=flat&logo=vercel&logoColor=white"/></a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🌌 3D Hero Experience</h3>
-      <p align="center">
-        <a href="https://github.com/aditya/threejs-hero">
-          <img src="https://github.com/aditya/threejs-hero/raw/main/preview.gif" alt="3D Hero Preview" width="100%" />
-        </a>
-      </p>
-      <p align="center">
-        Interactive React Three Fiber hero section with smooth camera motion and lighting.
-      </p>
-      <p align="center">
-        <a href="https://github.com/aditya/threejs-hero"><img src="https://img.shields.io/badge/Code-000?style=flat&logo=github&logoColor=white"/></a>
-        <a href="https://aditya-3d-hero.vercel.app"><img src="https://img.shields.io/badge/Live Demo-0078D4?style=flat&logo=vercel&logoColor=white"/></a>
-      </p>
-    </td>
-  </tr>
-</table>
+> A curated list of my work — styled like my Neovim setup 🦖
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🔐 JWT Auth API</h3>
-      <p align="center">
-        <a href="https://github.com/aditya/jwt-express">
-          <img src="https://github.com/aditya/jwt-express/raw/main/preview.png" alt="JWT API" width="100%" />
-        </a>
-      </p>
-      <p align="center">
-        TypeScript + Express backend with JWT authentication, bcrypt password hashing, and PostgreSQL.
-      </p>
-      <p align="center">
-        <a href="https://github.com/aditya/jwt-express"><img src="https://img.shields.io/badge/Code-000?style=flat&logo=github&logoColor=white"/></a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📦 Dockerized PostgreSQL</h3>
-      <p align="center">
-        <a href="https://github.com/aditya/docker-postgres-setup">
-          <img src="https://github.com/aditya/docker-postgres-setup/raw/main/preview.png" alt="Docker PostgreSQL" width="100%" />
-        </a>
-      </p>
-      <p align="center">
-        Simple Docker Compose setup for running PostgreSQL locally with persistence.
-      </p>
-      <p align="center">
-        <a href="https://github.com/aditya/docker-postgres-setup"><img src="https://img.shields.io/badge/Code-000?style=flat&logo=github&logoColor=white"/></a>
-      </p>
-    </td>
-  </tr>
-</table>
+---
+
+##  Developer Tools
+- **mlvm** — A complete `nvm`-like version manager in pure Rust (alternative to fnm).
+- **vault** — Simplified version control in Rust for local files, similar to git.
+- **Vanish**  *(BROKEN)* — Tool to create locally trusted X.509 development certs (Rust).
+- **proximity** — Self-hosted terminal chat app using WebSocket in C.
+- **rds**  *(INCOMPLETE)* — Discord music bot in Rust with Serenity.
+
+---
+
+##  Contracts (Deployed)
+- **Better Uniswap**  *(INCOMPLETE)* — Better interactions with Uniswap Router Contracts.
+
+---
+
+##  Libraries
+- **tonelli-rs** — Pure Rust implementation of Tonelli Shanks Algorithm for ECC math.
+- **phonetics** — NYSIIS + Metaphone phonetic search algorithms in Rust.
+- **term_ansi** — Rust macros for ANSI color codes in terminal.
+- **react-maps** — React components for map rendering.
+- **libaddress** — Robust TS/JS lib for handling addresses across countries.
+- **prism**  *(BROKEN)* — Minimalist web framework (Express.js replica) in TypeScript.
+- **go-json-db** — MongoDB-like JSON database in Golang.
+
+---
+
+##  Services
+- **Random Shader** — Live GLSL shader editor in browser — [demo](https://random-shader.shubh.sh).
+- **Ved Analytics** — Privacy-first website analytics dashboards.
+- **Flux Mail** — SMTP + mail service written in Rust — [site](https://flux-mail.shubh.sh).
+- **XION Faucet** — CW20 token faucet for Blazeswap & XION — [beta](https://xion-faucet-beta.vercel.app).
+
+---
+
+##  Fun
+- **Moann** — Lightweight, multithreaded alternative to Mechvibes for keyboard sounds.
+- **Otter** — Free animated Discord decorations.
+- **2048** — Flutter/Dart version of the classic game.
+- **2025**  *(BROKEN)* — Self-hosted calendar with custom events — [site](https://2025.shubh.sh).
+
+---
+
+> **Icons & vibes** inspired by my Neovim statusline.  
+> Colors look best in dark mode 🌑.
