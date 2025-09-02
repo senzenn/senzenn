@@ -25,6 +25,11 @@
 
 ##  Rust Projects
 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/senzenn/rust-rest-api-axum/main/rustacean-flat-happy.svg" alt="Rust Ferris" width="50"/>
+  <img src="https://raw.githubusercontent.com/solana-labs/solana/master/assets/solana-logo.svg" alt="Solana" width="50"/>
+</p>
+
 | Icon | Project | Description |
 |------|---------|-------------|
 |  | [**Axum JWT Backend**](https://github.com/senzenn/Axum-simple-jwt-based-backend/tree/main/backend) | Axum-based JWT auth API |
