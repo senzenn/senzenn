@@ -8,7 +8,6 @@
 |     | **Git**         | Git + GitHub |
 |     | **Terminal**    | Ghostty with  tmux |
 
-
 ---
 
 ##  Webdev Projects
@@ -32,3 +31,10 @@
 |  | [**Rust Axum REST API**](https://github.com/senzenn/rust-rest-api-axum) | Simple REST API in Axum |
 |  | [**Rust Dice Game**](https://github.com/senzenn/rust-dice) | CLI dice game in Rust |
 |  | [**Axum Server & Client Testing**](https://github.com/senzenn/axum-server-client) | Testing setup with Axum, tmux, and HTTP clients |
+|  | [**Rust Indexer**](https://github.com/senzenn/rust-indexer) | Fast blockchain indexer in Rust |
+|  | [**Rust Order Book**](https://github.com/senzenn/rust-order-book) | High-performance order book in Rust |
+|  | [**gRPC Indexer**](https://github.com/senzenn/grpc-indexer) | Scalable gRPC-based blockchain indexer in Rust |
+
+---
+
+[**GitHub Profile → senzenn**](https://github.com/senzenn)
