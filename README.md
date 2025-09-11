@@ -3,7 +3,7 @@
 | Icon | Name            | Description |
 |------|----------------|-------------|
 |     | **IDE**         | Neovim (custom Lua config + lualine, telescope, treesitter) |
-|     | **Package Manager** | Nix |
+|     | **Package Manager** | Nix + brew |
 |     | **OS**          | Arch / MacOS |
 |     | **Git**         | Git + GitHub |
 |     | **Terminal**    | Ghostty with  tmux |
