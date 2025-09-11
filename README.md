@@ -2,7 +2,7 @@
 
 | Icon | Name            | Description |
 |------|----------------|-------------|
-|     | **IDE**         | Neovim (custom Lua config + lualine, telescope, treesitter) |
+|     | **IDE**         | Neovim |
 |     | **Package Manager** | Nix + brew |
 |     | **OS**          | Arch / MacOS |
 |     | **Git**         | Git + GitHub |
