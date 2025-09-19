@@ -15,8 +15,6 @@
 | Icon | Project | Description |
 |------|---------|-------------|
 | 󰠄 | [**Live24**](https://live24.fun/) | Next.js Web3 Token Launchpad with AI |
-| 󰠄 | [**Sol Spin**](https://sol-spin.vercel.app/about) | Static React Three Fiber + GSAP + Framer Motion website |
-| 󰠄 | [**SolAvatar**](https://solavatar.fun) | 3D Avatar Creator with rigged body, lipsync, ElevenLabs voice, wallet integration |
 | 󰠄 | [**Artisan Shader**](https://artisan-shader-nextjs.vercel.app) | Shader generator site with custom config controls |
 | 󰠄 | [**Project Showcase**](https://project-showcase-amber.vercel.app) | Frontend for showcasing projects |
 | 󰠄 | [**Elite Fun**](https://elite-fun-main.vercel.app/) | Next.js + GSAP cinematic landing page |
